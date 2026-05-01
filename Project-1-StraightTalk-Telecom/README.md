@@ -16,8 +16,6 @@ service flows.
 - 12 user stories with Given/When/Then criteria
 - Complete RTM — SIT, UAT, Production tracking
 
-## Documents
-📄 StraightTalk_BA_CaseStudy.pdf
 
 ## Tools Used
 MS Word | MS Excel | Lucidchart | Confluence
